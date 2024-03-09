@@ -1,6 +1,14 @@
 # ML models done by hand
 Comparison of ML model performance when done by hand, with sklearn, and with pytorch
 
+# Models in this repository
+## Classification
+- Logistic Regression
+- SVM
+- K-Nearest Neighbors
+- Naive Bayes
+- Neural Network
+
 
 # Previous Research - Benchmarking
 Classification models reference/compare the performance achieved in the following Breast Cancer Detection Approaches:
