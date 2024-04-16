@@ -5,9 +5,8 @@ Comparison of ML model performance when done by hand, with sklearn, and with pyt
 ## Classification
 - Logistic Regression
 - SVM
-- K-Nearest Neighbors
-- Naive Bayes
-- Neural Network
+- Bayesian Regression
+- Multilayer Perceptron
 
 
 # Previous Research - Benchmarking
